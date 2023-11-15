@@ -11,9 +11,9 @@
                   Docker,
                   Kubernates,
                   Debugging & Unit testing.
-- 📫 you can reach me via email adress.
+- 📫 you can reach me via email adress,Linkedin.
 - Stephenowin233@gmail.com .
-- linkedIn:
+
 - https://www.linkedin.com/in/stephen-otieno-847264252/
   
 
