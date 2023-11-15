@@ -1,5 +1,5 @@
 - 👋 Hi, I’m stephenOwino
-- 👀 Ask me about Java,
+- 👀 Ask me about: Java,
                   Javascript,
                   Android,
                   SpringBoot,
