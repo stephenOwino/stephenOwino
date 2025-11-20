@@ -59,24 +59,6 @@ I specialize in creating high-performance backend systems and intuitive frontend
 </table>
 </div>
 
----
-
-## 🎨 **Frontend Technologies**
-
-* **React.js**
-* **Next.js**
-* **Redux**
-* **Tailwind CSS**
-* **Material UI (MUI)**
-
----
-
-## 🛠️ **DevOps / Tools**
-
-* **Kubernetes**
-* **Docker**
-* **CI/CD Pipelines**
-* **AWS**
 
 ---
 
