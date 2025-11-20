@@ -1,90 +1,90 @@
-# 👋 Hi, I'm **Stephen Otieno**
+👋 Hi, I'm Stephen Otieno
+🚀 Software Developer — Crafting Scalable, Secure & High-Performance Digital Solutions
 
-### 🚀 Software Developer | 3+ Years of Building Scalable Digital Solutions
+I’m a passionate full-stack and backend engineer with 3+ years building robust systems, cloud-native applications, and user-friendly interfaces. I love clean architecture, automation, and solving real-world problems with code.
 
-I specialize in creating high-performance backend systems and intuitive frontend experiences. Passionate about clean architecture, DevOps, and cloud-native development.
+🧩 Tech Stack Overview
+<table> <tr> <td valign="top" width="33%">
+🔧 Backend Engineering
 
----
+Languages
 
-## 🧩 **Tech Stack Overview**
+Java (OOP, Streams, Concurrency)
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+Kotlin
 
-### 🔧 **Backend Engineering**
+Frameworks
 
-**Languages & Fundamentals**
+Spring Boot
 
-* Core Java (OOP, Collections, Streams, Concurrency)
-* Kotlin
+Spring Security
 
-**Frameworks & Tools**
+Spring MVC
 
-* Spring Boot
-* Spring MVC / Spring Security / Spring Data JPA
+Spring Data JPA
 
-**Databases**
+Databases
 
-* MySQL
-* PostgreSQL
-* MongoDB
+PostgreSQL
 
-    </td>
-    <td valign="top" width="50%">
+MySQL
 
-### 🎨 **Frontend Development**
+MongoDB
 
-* React.js
-* Next.js
-* Redux
-* Tailwind CSS
-* Material UI (MUI)
+</td> <td valign="top" width="33%">
+🎨 Frontend Development
 
-    </td>
-  </tr>
+React.js
 
-</table>
+Next.js
 
----
+Redux
 
-## 🎨 **Frontend Technologies**
+Tailwind CSS
 
-* **React.js**
-* **Next.js**
-* **Redux**
-* **Tailwind CSS**
-* **Material UI (MUI)**
+Material UI (MUI)
 
----
+Responsive UI/UX Principles
 
-## 🛠️ **DevOps / Tools**
+</td> <td valign="top" width="33%">
+🛠️ DevOps & Tools
 
-* **Kubernetes**
-* **Docker**
-* **CI/CD Pipelines**
-* **AWS**
+Docker
 
----
+Kubernetes
 
-## 📈 What I Do
+CI/CD Pipelines
 
-* Build scalable backend architectures
-* Develop full‑stack applications
-* Deploy cloud‑native apps using Docker & Kubernetes
-* Automate deployments with CI/CD
+AWS Services
 
----
+Nginx
 
-## 📫 Contact Me
+Linux Server Management
 
-* **Email:** [stephenowin233@gmail.com](mailto:stephenowin233@gmail.com)
-* **Phone:** +24114825652
+Git & GitHub
 
----
+</td> </tr> </table>
+📈 What I Build
 
-⭐️ *Thanks for stopping by!*
+Scalable backend architectures
 
+Secure authentication & authorization systems
+
+Full-stack applications (React + Spring Boot)
+
+Cloud-native deployments using Docker & Kubernetes
+
+Automated CI/CD pipelines for fast delivery
+
+Reusable components & clean, testable code
+
+📫 Contact Me
+
+Email: stephenowin233@gmail.com
+
+Phone: +24114825652
+
+⭐ Thanks for stopping by! Feel free to connect or fork any repo you find useful.
 
   
 
