@@ -24,33 +24,30 @@
 
 ## 🧩 Tech Stack
 
-### **Backend**
-✔ Java • Kotlin • Spring Boot • Spring Security  
-✔ Spring Data JPA • WebSockets  
-✔ MySQL • PostgreSQL • MongoDB • Redis  
+## 🔥 GitHub Stats & Metrics
 
-### **Frontend**
-✔ React.js • Next.js  
-✔ Redux • Tailwind CSS • MUI  
+<div align="center">
 
-### **DevOps & Cloud**
-✔ Docker • Kubernetes  
-✔ CI/CD • AWS • Linux  
+<table>
+<tr>
+<td align="center" width="50%">
 
----
+<!-- Left Column -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenOwino&layout=compact&theme=tokyonight" />
 
-## ⚡ What I Build
-- Scalable backend architectures  
-- Full-stack applications  
-- Real-time WebSocket systems  
-- Cloud-native deployments (Docker + Kubernetes)  
-- CI/CD pipelines for automated delivery  
+</td>
 
----
+<td align="center" width="50%">
 
-## 🎧 Currently Coding With
-- *Bipolar Nightmare – Keigo Hoashi*  
-- *Mutter – Rammstein*
+<!-- Right Column -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stephenOwino&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ---
 
