@@ -10,9 +10,6 @@
 
 ### 🔥 GitHub Stats & Metrics
 
-<a href="https://github.com/stephenOwino">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stephenOwino&theme=tokyonight" />
-</a>
 
 <a href="https://github.com/stephenOwino">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenOwino&layout=compact&theme=tokyonight" />
