@@ -1,4 +1,8 @@
-# 👋 Hi, I'm **Stephen Otieno Owino**
+<div align="center">
+
+# 👋 Hi, I'm <span style="color: rgb(0, 190, 255);"><b>Stephen Otieno Owino</b></span>
+
+</div>
 
 ### 🚀 Software Developer | 3+ Years of Building Scalable Digital Solutions
 
@@ -8,57 +12,52 @@ I specialize in creating high-performance backend systems and intuitive frontend
 
 ## 🧩 **Tech Stack Overview**
 
+<div align="center">
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" align="center">
 
-### 🔧 <span style="color: rgb(0, 190, 255);"><b>Backend Engineering</b></span>
+### 🔧 <span style="color: rgb(0, 190, 255);"><b>Backend</b></span>
 
-**Languages & Fundamentals**
-
-* <span style="color: rgb(0, 190, 255);"><b>Core Java</b></span> (OOP, Streams, Concurrency)
-* <span style="color: rgb(0, 190, 255);"><b>Kotlin</b></span>
-
-**Frameworks & Tools**
-
-* <span style="color: rgb(0, 190, 255);"><b>Spring Boot</b></span>
-* Spring MVC / Security / JPA
-* <span style="color: rgb(0, 190, 255);"><b>WebSockets</b></span>
-
-**Databases / Caching**
-
+* Core Java
+* Kotlin
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* WebSockets
 * MySQL
 * PostgreSQL
 * MongoDB
-* <span style="color: rgb(0, 190, 255);"><b>Redis</b></span>
+* Redis
 
     </td>
 
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" align="center">
 
-### 🎨 <span style="color: rgb(0, 190, 255);"><b>Frontend Development</b></span>
+### 🎨 <span style="color: rgb(0, 190, 255);"><b>Frontend</b></span>
 
-* <span style="color: rgb(0, 190, 255);"><b>React.js</b></span>
-* <span style="color: rgb(0, 190, 255);"><b>Next.js</b></span>
+* React.js
+* Next.js
 * Redux
 * Tailwind CSS
 * MUI
 
     </td>
 
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" align="center">
 
 ### 🛠️ <span style="color: rgb(0, 190, 255);"><b>DevOps & Cloud</b></span>
 
-* <span style="color: rgb(0, 190, 255);"><b>Kubernetes</b></span>
-* <span style="color: rgb(0, 190, 255);"><b>Docker</b></span>
-* CI/CD Pipelines
+* Kubernetes
+* Docker
+* CI/CD
 * AWS
 
     </td>
   </tr>
 
 </table>
+</div>
 
 ---
 
