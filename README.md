@@ -20,37 +20,6 @@
 
 ---
 
-</div>
-
-## 🧩 Tech Stack
-
-## 🔥 GitHub Stats & Metrics
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<!-- Left Column -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenOwino&layout=compact&theme=tokyonight" />
-
-</td>
-
-<td align="center" width="50%">
-
-<!-- Right Column -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stephenOwino&theme=tokyonight" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
----
-
 ## 📫 Contact Me
 📧 Email: **stephenowin233@gmail.com**  
 📞 Phone: **+24114825652**
