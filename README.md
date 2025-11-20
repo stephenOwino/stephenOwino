@@ -59,7 +59,6 @@ I specialize in creating high-performance backend systems and intuitive frontend
 </table>
 </div>
 
-
 ---
 
 ## 📈 What I Do
@@ -79,5 +78,6 @@ I specialize in creating high-performance backend systems and intuitive frontend
 ---
 
 ⭐️ *Thanks for stopping by!*
+
 
 
