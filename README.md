@@ -8,7 +8,7 @@
 
 ---
 
-### 🔥 GitHub Stats & Metrics
+### GitHub Stats & Metrics
 
 
 <a href="https://github.com/stephenOwino">
