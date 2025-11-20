@@ -1,90 +1,102 @@
-👋 Hi, I'm Stephen Otieno
-🚀 Software Developer — Crafting Scalable, Secure & High-Performance Digital Solutions
+# 👋 Hi, I'm **Stephen Otieno Owino**
 
-I’m a passionate full-stack and backend engineer with 3+ years building robust systems, cloud-native applications, and user-friendly interfaces. I love clean architecture, automation, and solving real-world problems with code.
+### 🚀 Software Developer | 3+ Years of Building Scalable Digital Solutions
 
-🧩 Tech Stack Overview
-<table> <tr> <td valign="top" width="33%">
-🔧 Backend Engineering
+I specialize in creating high-performance backend systems and intuitive frontend experiences. Passionate about clean architecture, DevOps, and cloud-native development.
 
-Languages
+---
 
-Java (OOP, Streams, Concurrency)
+## 🧩 **Tech Stack Overview**
 
-Kotlin
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
-Frameworks
+### 🔧 <span style="color: rgb(0, 190, 255);"><b>Backend Engineering</b></span>
 
-Spring Boot
+**Languages & Fundamentals**
 
-Spring Security
+* <span style="color: rgb(0, 190, 255);"><b>Core Java</b></span> (OOP, Streams, Concurrency)
+* <span style="color: rgb(0, 190, 255);"><b>Kotlin</b></span>
 
-Spring MVC
+**Frameworks & Tools**
 
-Spring Data JPA
+* <span style="color: rgb(0, 190, 255);"><b>Spring Boot</b></span>
+* Spring MVC / Security / JPA
+* <span style="color: rgb(0, 190, 255);"><b>WebSockets</b></span>
 
-Databases
+**Databases / Caching**
 
-PostgreSQL
+* MySQL
+* PostgreSQL
+* MongoDB
+* <span style="color: rgb(0, 190, 255);"><b>Redis</b></span>
 
-MySQL
+    </td>
 
-MongoDB
+    <td valign="top" width="33%">
 
-</td> <td valign="top" width="33%">
-🎨 Frontend Development
+### 🎨 <span style="color: rgb(0, 190, 255);"><b>Frontend Development</b></span>
 
-React.js
+* <span style="color: rgb(0, 190, 255);"><b>React.js</b></span>
+* <span style="color: rgb(0, 190, 255);"><b>Next.js</b></span>
+* Redux
+* Tailwind CSS
+* MUI
 
-Next.js
+    </td>
 
-Redux
+    <td valign="top" width="33%">
 
-Tailwind CSS
+### 🛠️ <span style="color: rgb(0, 190, 255);"><b>DevOps & Cloud</b></span>
 
-Material UI (MUI)
+* <span style="color: rgb(0, 190, 255);"><b>Kubernetes</b></span>
+* <span style="color: rgb(0, 190, 255);"><b>Docker</b></span>
+* CI/CD Pipelines
+* AWS
 
-Responsive UI/UX Principles
+    </td>
+  </tr>
 
-</td> <td valign="top" width="33%">
-🛠️ DevOps & Tools
+</table>
 
-Docker
+---
 
-Kubernetes
+## 🎨 **Frontend Technologies**
 
-CI/CD Pipelines
+* **React.js**
+* **Next.js**
+* **Redux**
+* **Tailwind CSS**
+* **Material UI (MUI)**
 
-AWS Services
+---
 
-Nginx
+## 🛠️ **DevOps / Tools**
 
-Linux Server Management
+* **Kubernetes**
+* **Docker**
+* **CI/CD Pipelines**
+* **AWS**
 
-Git & GitHub
+---
 
-</td> </tr> </table>
-📈 What I Build
+## 📈 What I Do
 
-Scalable backend architectures
+* Build scalable backend architectures
+* Develop full‑stack applications
+* Deploy cloud‑native apps using Docker & Kubernetes
+* Automate deployments with CI/CD
 
-Secure authentication & authorization systems
+---
 
-Full-stack applications (React + Spring Boot)
+## 📫 Contact Me
 
-Cloud-native deployments using Docker & Kubernetes
+* **Email:** [stephenowin233@gmail.com](mailto:stephenowin233@gmail.com)
+* **Phone:** +24114825652
 
-Automated CI/CD pipelines for fast delivery
+---
 
-Reusable components & clean, testable code
+⭐️ *Thanks for stopping by!*
 
-📫 Contact Me
-
-Email: stephenowin233@gmail.com
-
-Phone: +24114825652
-
-⭐ Thanks for stopping by! Feel free to connect or fork any repo you find useful.
-
-  
 
